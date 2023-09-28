@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="vs4_1c5_xyb">
+    <title>保养基站</title>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>短按<image href="../images/water.png" width="25" id="image_cgx_mt6_xyd">
+                    <alt/>
+                </image>键，清洁槽自动加水。</cmd>
+                <info>
+                    <p><image href="../images/P3-18.png" width="200" id="image_cgx_mt5_xyb">
+                            <alt>清理清水箱过滤面操作示意图</alt>
+                        </image></p>
+                </info>
+            </step>
+            <step>
+                <cmd>使用基站清洁刷，清理清洁槽。</cmd>
+                <info>
+                    <p><image href="../images/P3-19.png" width="200" id="image_cgx_mt5_xyc">
+                            <alt>清理清水箱过滤面操作示意图</alt>
+                        </image></p>
+                </info>
+            </step>
+            <step>
+                <cmd>短按<image href="../images/water.png" width="25" id="image_cgx_mt7_xyd">
+                    <alt/>
+                </image>键，清洁槽自动抽干污水。</cmd>
+                <info>
+                    <p><image href="../images/P3-20.png" width="200" id="image_cgx_mt5_xyd">
+                            <alt>清理清水箱过滤面操作示意图</alt>
+                        </image></p>
+                </info>
+            </step>
+            <step>
+                <cmd>清空污水箱。</cmd>
+                <info>
+                    <p><image href="../images/P3-21.png" width="150" id="image_cgx_mt5_xye">
+                            <alt>清空污水箱操作示意图</alt>
+                        </image></p>
+                </info>
+            </step>
+            <step>
+                <cmd>清理清水箱过滤棉</cmd>
+                <info>
+                    <p><image href="../images/P3-22.png" width="200" id="image_cgx_mt5_xyf">
+                            <alt>清理清水箱过滤面操作示意图</alt>
+                        </image></p>
+                </info>
+                
+            </step>
+        </steps>
+    </taskbody>
+</task>

@@ -1,0 +1,346 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="dv2_qv5_xyb">
+    <title>常见问题排查</title>
+    <conbody>
+        <p>产品使用过程中，若遇以下情况。 可对照查询，自主解决。</p>
+        <table frame="all" id="simpletable_zmg_vv5_xyb">
+            <tgroup cols="4">
+                <colspec colname="c1" colwidth="1.0*" align="center"/>
+                <colspec colname="c2" colwidth="2.18*" align="left"/>
+                <colspec colname="c3" colwidth="4.25*" align="left"/>
+                <colspec colname="c4" colwidth="8.55*" align="left"/>
+                <thead>
+                    <row>
+                        <entry>序号</entry>
+                        <entry>故障情况</entry>
+                        <entry>可能原因</entry>
+                        <entry>解决方法</entry>
+                    </row>
+                </thead>
+                <tbody>
+                    <row>
+                        <entry morerows="4">1</entry>
+                        <entry morerows="4">主机无法连接App。</entry>
+                        <entry>路由器用户名和密码不正确。</entry>
+                        <entry>配置路由器网络，确保输入的路由器 “用户名”和 “密码” 正确。</entry>
+                    </row>
+                    <row>
+                        <entry>
+                            <p>主机不在路由器的网络信号覆盖范围内。</p>
+                        </entry>
+                        <entry>确保主机在路由器的网络信号攫盖范围内。</entry>
+                    </row>
+                    <row>
+                        <entry>主机未处千待配置状态。</entry>
+                        <entry>只有 主机处千待配置状态时才能对其进行网络配置。 主机通电， 打开主机面盖，短按一下重置键，听到
+                            主机提示音，即表示主机进入待配置状态。</entry>
+                    </row>
+                    <row>
+                        <entry>没有使用2.4GHz或2.4/5GHz混合网络。</entry>
+                        <entry>主机暂不支持5G网络，联网时请使用2.4GHz或2.4/5GHz混合网络。</entry>
+                    </row>
+                    <row>
+                        <entry>可能下载了错误的App应用 。</entry>
+                        <entry>请扫描本产品二维码或去应用市场下载ECOVACS HOME App。</entry>
+                    </row>
+                    <row>
+                        <entry>2</entry>
+                        <entry>地图丢失 。</entry>
+                        <entry>搬动 主机，可能有丢失地图的风险。</entry>
+                        <entry>
+                            <p>将主机搬至基站前方尝试恢复。</p>
+                            <p>在App地图管理中找到已存地图，尝试点击 “使用地图” 进行恢复。 如果以上均无法解决，建议重新建图。</p>
+                        </entry>
+                    </row>
+                    <row>
+                        <entry morerows="2">3</entry>
+                        <entry morerows="2">无法在App上创建家居地图。</entry>
+                        <entry>地宝未从基站出发。</entry>
+                        <entry>地宝须从基站出发开始清扫。</entry>
+                    </row>
+                    <row>
+                        <entry>清扫过程中搬动地宝，导致地宝定位失败。</entry>
+                        <entry>清扫过程中，请尽可能避免搬动地宝。</entry>
+                    </row>
+                    <row>
+                        <entry>自动 清扫任务未完成。</entry>
+                        <entry>让地宝清扫完成后自动 返回基站。</entry>
+                    </row>
+                    <row>
+                        <entry>4</entry>
+                        <entry>边刷脱落。</entry>
+                        <entry>安装不到位。</entry>
+                        <entry>安装时需要听到 “ 咯 ＂ 的一声，确保边刷安装到位。</entry>
+                    </row>
+                    <row>
+                        <entry morerows="3">5</entry>
+                        <entry morerows="3">找不到基站信号，无法返回基站。</entry>
+                        <entry>基站摆放位置不正确。</entry>
+                        <entry>请按照说明书<xref href="2-4.dita">【主机充电】</xref>童节的方法正确摆放基站。</entry>
+                    </row>
+                    <row>
+                        <entry>基站断电或被人为移动 。</entry>
+                        <entry>请检查基站是否连接电源。 不要人为移动 基站位置。</entry>
+                    </row>
+                    <row>
+                        <entry>主机没有从基站出发开始清扫。</entry>
+                        <entry>建议让 主机从基站出发开始清扫。</entry>
+                    </row>
+                    <row>
+                        <entry>回充路线被阻断。 例如，有基站的房间房门被关闭。</entry>
+                        <entry>请保持回充路线 通畅。</entry>
+                    </row>
+                    <row>
+                        <entry morerows="1">6</entry>
+                        <entry morerows="1">未清扫完毕，主机返回充电。</entry>
+                        <entry>房间较大， 主机需要中途返回充电。</entry>
+                        <entry>建议开启断点续扫，具体操作方法可参考App指引。</entry>
+                    </row>
+                    <row>
+                        <entry>家居环境非常复杂的情况下，清扫效率会降低，可能 无法清扫完。</entry>
+                        <entry>整理家居环境。</entry>
+                    </row>
+                    <row>
+                        <entry morerows="3">7</entry>
+                        <entry morerows="3">主机无法充电。</entry>
+                        <entry>主机电源开关未打开。</entry>
+                        <entry>主机电源开关需要打开到 “ |"状态，方可充电。</entry>
+                    </row>
+                    <row>
+                        <entry>主机与基站的充电极片未充分接触。</entry>
+                        <entry>确保主机与基站的充电极片充分对接，<image href="../images/switch.png" width="15"
+                                id="image_kmt_b1v_xyb">
+                                <alt>开关键</alt>
+                            </image>键处千闪烁状态。检查主机和基站的充电极片是否脏污，可参照说明书<xref href="3-1.dita"
+                                >【部件保养】</xref>章节清理。</entry>
+                    </row>
+                    <row>
+                        <entry>基站未连接电源。</entry>
+                        <entry>确保基站电源已连接。</entry>
+                    </row>
+                    <row>
+                        <entry>长时间不使用，导致电池过放。</entry>
+                        <entry>建议经常使用本产品，如果长时间未使用导致无法充电，请联系售后服务人员。</entry>
+                    </row>
+                    <row>
+                        <entry morerows="1">8</entry>
+                        <entry morerows="1">主机工作时，运行声音大。</entry>
+                        <entry>边刷、滚刷被缠住，尘盒、过滤材料被堵住等。</entry>
+                        <entry>建议定期清理及保养边刷、滚刷、尘盒、过滤材料等。</entry>
+                    </row>
+                    <row>
+                        <entry>主机进入强劲清扫模式。</entry>
+                        <entry>更改为标准清扫模式。</entry>
+                    </row>
+                    <row>
+                        <entry morerows="1">9</entry>
+                        <entry morerows="1">主机工作时陷入困境。</entry>
+                        <entry>主机被地面上散乱电线、下垂的窗帘布或地毯须边等缠绕或阻碍。</entry>
+                        <entry>主机会自主尝试各种方法脱困，若未能脱困，建议手动帮助。</entry>
+                    </row>
+                    <row>
+                        <entry>主机可能被与主机高度相近的家具卡住。</entry>
+                        <entry>建议垫高家具，或人为遮挡，或通过App引导设詈虚拟墙。</entry>
+                    </row>
+                    <row>
+                        <entry morerows="4">10</entry>
+                        <entry morerows="4">主机工作时出现路线乱、跑偏、重复清扫及小区域漏扫等情况。
+                            （如有大面积暂时未扫的区域，主机会进行自主补漏，不用担心；有时主机会再次进入己清扫过的房间，可能不是重复清扫，只是在自主补漏。）</entry>
+                        <entry>
+                            <p>地面摆放的电线、拖鞋等物体影响到地宝正常工作。</p>
+                        </entry>
+                        <entry>
+                            <p>主机工作前请先整理好地面散落的电线、拖鞋等物体，尽可能减少地面零散物品摆放。如果出现漏扫现象，主机会自主补漏，请不要人为干扰（如搬动主机或阻挡主机行进路线）。</p>
+                        </entry>
+                    </row>
+                    <row>
+                        <entry>可能由于主机攀爬台阶、门槛、门条时，驱动轮在地面上打滑，从而影响到主机对整屋环境的判断。</entry>
+                        <entry>
+                            <p>建议关好该区域的房门，单独清扫该区域，清扫完成后会回到起点，请您放心使用。</p>
+                        </entry>
+                    </row>
+                    <row>
+                        <entry>
+                            <p>在刚打蜡、抛光的地板或者光滑的地砖上工作，造成驱动轮和地面的摩擦力减小。</p>
+                        </entry>
+                        <entry>建议您等地板蜡风干后再使用。</entry>
+                    </row>
+                    <row>
+                        <entry>
+                            <p>由千家庭环境不同，个别区域主机无法进入清扫。</p>
+                        </entry>
+                        <entry>建议整理家居环境保证主机可以进入进行清扫。</entry>
+                    </row>
+                    <row>
+                        <entry>顶部TrueMapping激光扫描模块脏污或被异物遮挡。</entry>
+                        <entry>用干净的软布擦拭TrueMapping激光扫描模块或去除遮挡的异物。</entry>
+                    </row>
+                    <row>
+                        <entry morerows="3">11</entry>
+                        <entry morerows="3">视频管家无法打开或没有画面。</entry>
+                        <entry>Wi-Fi连接失败。</entry>
+                        <entry>检查主机Wi-Fi连接状态，主机需要在Wi-Fi信号良好的区域才能正常 开启视频管家。</entry>
+                    </row>
+                    <row>
+                        <entry>
+                            <p>用户授权没有开启。</p>
+                        </entry>
+                        <entry>请在隐私协议 中勾选同意后再进行使用。</entry>
+                    </row>
+                    <row>
+                        <entry>
+                            <p>由于家庭网络延迟大， 可能暂时无法打开。</p>
+                        </entry>
+                        <entry>建议稍后再尝试。</entry>
+                    </row>
+                    <row>
+                        <entry>AI VI摄像头被遮挡。</entry>
+                        <entry>将遮挡物移除。</entry>
+                    </row>
+                    <row>
+                        <entry>12</entry>
+                        <entry>远程操控操作延迟大。</entry>
+                        <entry>主机连接的Wi-Fi信号不佳，导致视频加载变漫。</entry>
+                        <entry>建议在Wi-Fi信号良好的区域使用主机。</entry>
+                    </row>
+                    <row>
+                        <entry morerows="1">13</entry>
+                        <entry morerows="1">AI VI摄像头无法识别。</entry>
+                        <entry>清扫区域光线不充足。</entry>
+                        <entry>请在白天或打开房间灯清扫，A|需要在光线充足的条件下才可正常识别。</entry>
+                    </row>
+                    <row>
+                        <entry>AI VI摄像头镜片有污渍或被遮挡。</entry>
+                        <entry>用软布擦拭镜片，保持镜片干净无遮挡。</entry>
+                    </row>
+                    <row>
+                        <entry morerows="6">14</entry>
+                        <entry morerows="6">主机返回基站后，未开 始 自动集尘。</entry>
+                        <entry>集尘仓未关闭。</entry>
+                        <entry>请关闭集尘仓。</entry>
+                    </row>
+                    <row>
+                        <entry>基站未安装尘袋。</entry>
+                        <entry>安装尘袋，并关闭集尘仓。</entry>
+                    </row>
+                    <row>
+                        <entry>手动搬动主机回到基站，未触发自动集尘。</entry>
+                        <entry>为了方便主机完成清扫后能够顺利返回充电栠 尘，建议让主机自行返回基站，避免手动搬动主机。</entry>
+                    </row>
+                    <row>
+                        <entry>主机在视频管家模式自动返回基站。</entry>
+                        <entry>视频管家模式主机不进行 清扫，无需集尘。 此为正常现象，请放心使用。</entry>
+                    </row>
+                    <row>
+                        <entry>当在ECOVACS HOM App中设置为勿扰模式时，主机在返回基站时不会开始集尘。</entry>
+                        <entry>可在ECOVACS HOME App中取消勿扰模式，或手动启动集尘。</entry>
+                    </row>
+                    <row>
+                        <entry>基站检测到集尘效率降低。</entry>
+                        <entry>按照<xref href="3-1.dita"
+                            >【部件保养】</xref>章节的说明更换尘袋，并关闭集尘仓。如App提示时，尘袋尚未装满，再次装回即可。</entry>
+                    </row>
+                    <row>
+                        <entry>
+                            <p>如以上的可能原因都已经排除，可能是基站元器件异常</p>
+                        </entry>
+                        <entry>
+                            <p>请联系售后服务人员。</p>
+                        </entry>
+                    </row>
+                    <row>
+                        <entry morerows="1">15</entry>
+                        <entry morerows="1">自动集尘不成功。</entry>
+                        <entry>
+                            <p>基站检测到集尘效率降低。</p>
+                        </entry>
+                        <entry>
+                            <p>按照<xref href="3-1.dita">【部件保养】</xref>章节 提示更换尘袋，并关闭集尘仓。 如</p>
+                            <p>App提示时，尘袋尚未装满，取出尘袋再次装回即可。</p>
+                        </entry>
+                    </row>
+                    <row>
+                        <entry>尘盒的集尘出口被异物卡住。</entry>
+                        <entry>
+                            <p>取出尘盒，并清理集尘出口上的异物。</p>
+                        </entry>
+                    </row>
+                    <row>
+                        <entry morerows="1">16</entry>
+                        <entry morerows="1">基站尘桶内脏污。</entry>
+                        <entry>细微颗粒透过尘袋吸附在集尘仓内侧。</entry>
+                        <entry>清理集尘仓内壁。</entry>
+                    </row>
+                    <row>
+                        <entry>尘袋破损。</entry>
+                        <entry>检查尘袋并更换。</entry>
+                    </row>
+                    <row>
+                        <entry>17</entry>
+                        <entry>主机运行中漏灰。</entry>
+                        <entry>尘盒的集尘出口被异物卡住。</entry>
+                        <entry>取出尘盒，并清理集尘出口上的异物。</entry>
+                    </row>
+                    <row>
+                        <entry>18</entry>
+                        <entry>拖布支架无法旋转。</entry>
+                        <entry>拖布支架被异物卡住。</entry>
+                        <entry>请清除异物。</entry>
+                    </row>
+                    <row>
+                        <entry morerows="1">19</entry>
+                        <entry morerows="1">主机不响应基站指令。</entry>
+                        <entry>主机与基站距离过远。</entry>
+                        <entry>如超出可用距离，也可使用ECOVACS HOME App操作主机。</entry>
+                    </row>
+                    <row>
+                        <entry>主机和基站未配对。</entry>
+                        <entry>拔出基站插头，等待10s后重新插入插头。 关闭主机电源， 然后重新打开。
+                            手动将主机推上基站，确保充电极片正确对接，主机将开始充电，并播报配对成功语音。</entry>
+                    </row>
+                    <row>
+                        <entry>20</entry>
+                        <entry>基站设置童锁不成功。</entry>
+                        <entry>基站与主机通讯中断（如距离较远，或隔墙较多）。</entry>
+                        <entry>将主机移动至基站附近以确保通讯顺畅后，再设置童锁。</entry>
+                    </row>
+                    <row>
+                        <entry>21</entry>
+                        <entry>驱动轮卡住。</entry>
+                        <entry>驱动轮被异物缠绕或卡住。</entry>
+                        <entry>请转动及按压驱动轮，检查是否有异物缠绕或卡住，有异物请及时清理。 如无法解决，请联系售后服务人员。</entry>
+                    </row>
+                    <row>
+                        <entry morerows="4">22</entry>
+                        <entry morerows="4">基站清洁槽内水满无法吸出，语音报警反馈清洁槽水满。</entry>
+                        <entry>污水箱未正确安装。</entry>
+                        <entry>向下轻按污水箱，确保污水箱正确安装。</entry>
+                    </row>
+                    <row>
+                        <entry>污水箱内封闭塞未正常安装。</entry>
+                        <entry>确保检查基站内污水箱两个封闭塞已正常安装。</entry>
+                    </row>
+                    <row>
+                        <entry>基站无法正常抽水。</entry>
+                        <entry>点击基站面板<image href="../images/water.png" width="15"
+                                id="image_w3x_mhv_xyb"/>键两次，观察基站是否能够正常抽水。 若基站清洗拖布过程中出现该故障，请先长按<image
+                                href="../images/start.png" width="15" id="image_xjl_nhv_xyb"
+                                />键结束任务，再点击<image href="../images/water.png" width="15"
+                                id="image_ndh_nhv_xyb"/>键两次，观察是否正常出水。
+                            若正常抽水，请擦干清洁槽溢水感应片；若无法抽水，请检查污水箱与基站之间是否存在异物，若有请清理。</entry>
+                    </row>
+                    <row>
+                        <entry>清洁槽吸水口有异物。</entry>
+                        <entry>确保清洁槽内吸水口无异物。</entry>
+                    </row>
+                    <row>
+                        <entry>尝试以上方法仍无法解除语音报警。</entry>
+                        <entry>重新插拔基站电源开关。 如无法解决，请联系售后服务人员。</entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+        <note>如按上速操作无法排除故障，可联系售后服务人员。</note>
+    </conbody>
+</concept>

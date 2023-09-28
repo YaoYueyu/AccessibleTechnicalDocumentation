@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="tb4_s3s_xyb">
+    <title>包装内容物</title>
+    <shortdesc></shortdesc>
+    <conbody>
+        <fig id="fig_o3b_5jt_xyb">
+            <title>主机</title>
+            <image href="../images/P1-1.png" width="150" id="image_p3b_5jt_xyb"/>
+        </fig>
+        <fig id="fig_edg_wjt_xyb">
+            <title>可水洗拖布</title>
+            <image href="../images/P1-3.png" width="200" id="image_fdg_wjt_xyb"/>
+        </fig>
+        <fig id="fig_d5d_vjt_xyb">
+            <title>拖布支架</title>
+            <image href="../images/P1-2.png" width="200" id="image_e5d_vjt_xyb"/>
+        </fig>
+        <fig id="fig_frx_dkt_xyb">
+            <title>全能基站</title>
+            <image href="../images/P1-4.png" width="150" id="image_grx_dkt_xyb">
+                <alt>全能基站</alt>
+            </image>
+        </fig>
+        <fig id="fig_bh2_fkt_xyb">
+            <title>基站电源线</title>
+            <image href="../images/P1-5.png" width="100" id="image_ch2_fkt_xyb">
+                <alt>基站电源线</alt>
+            </image>
+        </fig>
+            <fig id="fig_tq5_gkt_xyb">
+                <title>净味尘袋</title>
+                <image href="../images/P1-6.png" width="100" id="image_uq5_gkt_xyb">
+                    <alt>净味尘袋</alt>
+                </image>
+              </fig>
+            <fig id="fig_qnd_3kt_xyb">
+                <title>基站清洁刷</title>
+                <image href="../images/P1-7.png" width="50" id="image_rnd_3kt_xyb">
+                    <alt>基站清洁刷</alt>
+                </image>
+            </fig>
+            <fig id="fig_crw_jkt_xyb">
+                <title>科沃斯专用清洁剂</title>
+                <image href="../images/P1-8.png" width="50" id="image_drw_jkt_xyb">
+                    <alt>科沃斯专用清洁剂</alt>
+                </image>
+             </fig>
+            <fig id="fig_snk_mkt_xyb">
+                <title>双边刷</title>
+                <image href="../images/P1-9.png" width="100"
+                    id="image_tnk_mkt_xyb">
+                    <alt>双边刷</alt>
+                </image>
+            </fig>
+            <fig id="fig_bj5_nkt_xyb">
+                <title>产品使用资料</title>
+                <image href="../images/P1-10.png" width="150"
+                    id="image_cj5_nkt_xyb">
+                    <alt>产品使用资料</alt>
+                </image>
+            </fig>
+        <note>
+            <ul id="ul_uc5_qkt_xyb">
+                <li>
+                    <p>说明书图示仅供参考，实际外观请以实物为准。</p>
+                </li>
+                <li>
+                    <p>可搭配科沃斯自动上下水模块使用，如需购买，请访问ECOVACSHOME App商城或<xref
+                            href="https://mall.ecovacs.cn/" format="html" scope="external"
+                            >科沃斯官方商城</xref>。</p>
+                </li>
+            </ul>
+        </note>
+    </conbody>
+</concept>

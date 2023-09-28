@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="gqv_hv5_xyb">
+    <title>关机存放</title>
+    <conbody>
+        <p>若长时间不使用产品，储存前请先将其充满电，再关闭电源开关，并坚持每1.5个月为其补充电，以防电池过放。</p>
+        <p><image href="../images/P3-29.png" width="200" id="image_v5r_lv5_xyb">
+                <alt>补电操作示意图</alt>
+            </image></p>
+        <note>注意，主机无法在电源关闭的情况下充电。<ul id="ul_e51_nv5_xyb">
+                <li>主机结束工作后，建议不要关机，保持主机在充电状态，以便更好地进行下一次工作。</li>
+                <li>电池过放或长期不使用，产品可能无法充电，请联系本公司售后进行维修，切勿自行拆卸。</li>
+            </ul></note>
+    </conbody>
+</concept>

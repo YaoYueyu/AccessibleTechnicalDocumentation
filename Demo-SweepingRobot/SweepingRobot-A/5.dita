@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="e4j_rv5_xyb">
+    <title>产品参数</title>
+    <conbody>
+        <p>
+            <simpletable frame="all" relcolwidth="1* 1*" id="simpletable_uhf_pcv_xyb">
+                <strow>
+                    <stentry>产品型号</stentry>
+                    <stentry>DEX32 </stentry>
+                </strow>
+                <strow>
+                    <stentry>主机额定输入</stentry>
+                    <stentry>20V- 2A </stentry>
+                </strow>
+                <strow>
+                    <stentry>充电时间</stentry>
+                    <stentry>约6.5h</stentry>
+                </strow>
+                <strow>
+                    <stentry>自动洗拖布集尘座型号</stentry>
+                    <stentry>CH2217 </stentry>
+                </strow>
+                <strow>
+                    <stentry>额定输入</stentry>
+                    <stentry>220-240V~50-60Hz</stentry>
+                </strow>
+                <strow>
+                    <stentry>额定输出</stentry>
+                    <stentry>20V- 2A </stentry>
+                </strow>
+                <strow>
+                    <stentry>额定输入电流（充电状态）</stentry>
+                    <stentry>O.5A</stentry>
+                </strow>
+                <strow>
+                    <stentry>功率（集尘状态）</stentry>
+                    <stentry>1000W </stentry>
+                </strow>
+                <strow>
+                    <stentry>功率（洗拖布状态）</stentry>
+                    <stentry>45W </stentry>
+                </strow>
+            </simpletable>
+        </p>
+        <note>
+            <ul id="ul_z51_vcv_xyb">
+                <li>
+                    <p>核准代码体现在产品铭牌上。</p>
+                </li>
+                <li>
+                    <p>因产品持续改善的需要，本资料产品以实物为准，我公司保留产品更新的权利。</p>
+                    <p>在使用中如遇任何间题，请联系我们的售后服务中心：400-886-8888，将有专业人员为您解答间题。更多详情请至科沃斯官网：www.ecovacs.com</p>
+                </li>
+            </ul>
+        </note>
+    </conbody>
+</concept>

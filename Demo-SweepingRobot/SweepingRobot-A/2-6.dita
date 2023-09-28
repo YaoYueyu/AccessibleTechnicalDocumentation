@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="bhd_415_xyb">
+    <title>启动拖布</title>
+    <taskbody>
+        <context>
+            <p>
+                <ol id="ol_ztb_p15_xyb">
+                    <li>主机水箱能够通过基站进行自动补水，无需手动加水。<p>2．请勿在地毯上使用拖地功能。</p><p><b>安装拖布和拖布支架</b></p></li>
+                </ol>
+            </p>
+        </context>
+        <steps>
+            <step>
+                <cmd>安装拖布和拖布支架</cmd>
+                <info>
+                    <p><image href="../images/P2-20.png" width="200" id="image_jf5_s15_xyb">
+                            <alt>安装拖布和拖布支架</alt>
+                        </image></p>
+                </info>
+            </step>
+            <step>
+                <cmd>启动拖布</cmd>
+                <info>
+                    <p>点击<image href="../images/switch.png" width="15" id="image_jf4_f15_xyb"
+                            />或基站<image href="../images/start.png" width="13" id="image_oc4_g15_xyb"
+                        />键</p>
+                    <p><image href="../images/P2-21.png" width="200" id="image_pv2_w15_xyb">
+                            <alt>启动拖布操作示意图</alt>
+                        </image></p>
+                    <p><b>温馨提示：</b></p>
+                    <ol id="ol_uzz_x15_xyb">
+                        <li>为延长可水洗拖布使用寿命，请勿频繁取下可水洗拖布。</li>
+                        <li>请勿使用抹布或其他任何物体刮擦拖布支架，以免缩短魔术贴使用寿命。</li>
+                        <li>当ECOVACS HOME App提示拖布需更换时，请及时进行更换。如需购买配件，请访问ECOVACS HOME App商城或<xref
+                                href="https://mall.ecovacs.cn/" format="html" scope="external"
+                                >科沃斯官网商城</xref>。</li>
+                    </ol>
+                </info>
+            </step>
+        </steps>
+    </taskbody>
+</task>

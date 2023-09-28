@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="vs4_1c5_xyb">
+    <title>清理边刷</title>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>取下边刷</cmd>
+                <info>
+                    <p><image href="../images/P3-9.png" width="200" id="image_qpw_3f5_xyb">
+                            <alt>取下边刷操作示意图</alt>
+                        </image></p>
+                </info>
+            </step>
+            <step>
+                <cmd>清理边刷</cmd>
+                <info>
+                    <p><image href="../images/P3-10.png" width="150" id="image_e5w_kf5_xyb">
+                            <alt>清理边刷操作示意图</alt>
+                        </image></p>
+                </info>
+            </step>
+        </steps>
+
+           
+        
+    </taskbody>
+</task>

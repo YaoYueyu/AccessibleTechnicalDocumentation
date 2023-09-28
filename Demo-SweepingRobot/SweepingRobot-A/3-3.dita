@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="vs4_1c5_xyb">
+    <title>清理滚刷</title>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>打开盖板</cmd>
+                <info>
+                    <p><image href="../images/P3-6.png" width="200" id="image_qpw_3f5_xyb">
+                            <alt>打开盖板操作示意图</alt>
+                        </image></p>
+                </info>
+            </step>
+            <step>
+                <cmd>取出滚刷</cmd>
+                <info>
+                    <p><image href="../images/P3-7.png" width="200" id="image_e5w_kf5_xyb">
+                            <alt>取出滚刷操作示意图</alt>
+                        </image></p>
+                </info>
+            </step>
+            <step>
+                <cmd>清理滚刷</cmd>
+                <info>
+                    <p><image href="../images/P3-10.png" width="150" id="image_s4h_mf5_xyb">
+                            <alt>取出滚刷操作示意图</alt>
+                        </image></p>
+                </info>
+            </step>
+        </steps>
+
+           
+        
+    </taskbody>
+</task>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="utt_ds5_xyb">
+    <title>维护和保养频率</title>
+    <conbody>
+        <p><b>清理传感器镜片</b></p>
+        <p><image href="../images/P3-11.png" width="200" id="image_ysn_gs5_xyb">
+                <alt>清理传感器镜片示意图</alt>
+            </image></p>
+        <p><b>清理TrueMapping激光扫描模块</b></p>
+        <p><image href="../images/P3-12.png" width="200" id="image_p5f_3s5_xyb">
+                <alt>清理TrueMapping激光扫描模块操作示意图</alt>
+            </image></p>
+        <p>
+            <note>请用干净的软布擦拭传感器镜片和TrueMapping激光扫描模块，不要用洗剂、洗衣液、 喷雾器。<p><b>清理下视感应器</b></p><p><image
+                        href="../images/P3-13.png" width="200" id="image_fjq_ms5_xyb">
+                        <alt>清理下视感应器操作示意图</alt>
+                    </image></p><p><b>清理缓冲防撞板</b></p><p><image href="../images/P3-14.png"
+                        width="200" id="image_z4v_rs5_xyb">
+                        <alt>清理缓冲防撞板操作示意图</alt>
+                    </image><note>清理下视感应器和缓冲防撞板时请使用干抹布。 请勿使用湿抹布，
+                        以防进水造成损坏。</note></p><b>清理充电极片</b><p><image href="../images/P3-15.png"
+                        width="200" id="image_ihb_ss5_xyb">
+                        <alt>清理充电极片操作示意图</alt>
+                    </image></p><p>
+                    <note>温馨提示：充电极片内部包含敏感的电子元件，清理时请使用干抹布，请勿使用 湿抹布以防进水造成损坏。</note>
+                </p><p><b>清理驱动轮</b></p><p><image href="../images/P3-16.png" width="200"
+                        id="image_fg2_ss5_xyb">
+                        <alt>清理驱动轮操作示意图</alt>
+                    </image></p><p><b>清理万向轮</b></p><p><image href="../images/P3-17.png" width="200"
+                        id="image_xsg_ss5_xyb">
+                        <alt>渭理万向轮操作示意图</alt>
+                    </image></p></note>
+        </p>
+    </conbody>
+</concept>

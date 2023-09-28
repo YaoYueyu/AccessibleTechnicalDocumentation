@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="tb4_s3s_xyb">
+    <title>传感器介绍</title>
+    <conbody>
+        <p>
+            <table frame="all" rowsep="1" colsep="1" id="table_hc4_ypt_xyb">
+                
+                <tgroup cols="2" align="left">
+                    <colspec colname="c1" colnum="1" colwidth="1*"/>
+                    <colspec colname="c2" colnum="2" colwidth="2.45*"/>
+                    <thead>
+                        <row>
+                            <entry>部件名称</entry>
+                            <entry>功能描述</entry>
+                        </row>
+                    </thead>
+                    <tbody>
+                        <row>
+                            <entry>TrueMapping激光扫描模块</entry>
+                            <entry>利用激光测距原理，利用激光发射与接收到周边物体反射回来光线的时间差，通过算法计算出主机与周边物体的距离，当主机在一定环境内行走，通过定位周围物体的位翌，绘制出主机所处空间环境地图。
+                                测罣范围为10m。</entry>
+                        </row>
+                        <row>
+                            <entry>AIVI摄像头</entry>
+                            <entry>利用Al摄像头对周围环境的图像采集，实现视频录制功能，同时辅助绘制环境3D地图，通过与MIC的互动，实现远程语音通话功能。FOV:垂直112°、水平138°。</entry>
+                        </row>
+                        <row>
+                            <entry>TrueDetect 3D 结构光传感器</entry>
+                            <entry>利用红外测距原理，传感器发射红外射线并接收前方障碍物反射回的光线，通过时间差计算障碍物与主机的距离，当传感器识别主机近处有障碍物时，自动转弯，避开障碍物行走。
+                                测呈范围为0.8m。</entry>
+                        </row>
+                        <row>
+                            <entry>麦克风</entry>
+                            <entry>以人声通过空气振动使震膜振动，通过声音模型的采集和算法，实现声音录制和语音控制主机完成指定的工作，在信噪比大千SdB的科沃斯实验室测试语音唤醒率达90％以上。</entry>
+                        </row>
+                        <row>
+                            <entry>下视感应器</entry>
+                            <entry>利用红外测距原理，通过主机底部的红外传感器，监测主机底部与地面的距离，当主机前方有台阶（例如：白色地面高度大千90mm),传感器读值超过预设值时，主机不再向前行走，实现主机防跌落功能。</entry>
+                        </row>
+                        <row>
+                            <entry>地毯传感器</entry>
+                            <entry>
+                                <p>通过超声波探头发射300KHZ的超声波，当有地毯时，超声波的能量被地毯吸收，反射回来的 能量小千阐值，主机识别到有地毯。
+                                    在科沃斯实验室识别市面上50种以上的地毯。</p>
+                            </entry>
+                        </row>
+                    </tbody>
+                </tgroup>
+            </table>
+        </p>
+    </conbody>
+</concept>

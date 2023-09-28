@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="snb_2zt_xyb">
+    <title>启动清扫</title>
+    <taskbody>
+        <context>
+            <p>首次建图时，请跟随主机，帮助排除一些不友好的小间题。</p>
+            <p>例如，主机可能会卡在家具低矮处，可以参考以下的方法解决。</p>
+            <p>①如有条件，可垫高家具；②遮挡家具底部，不让主机进入； ③在App中设詈虚拟墙，禁止主机进入。</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>启动清扫</cmd>
+                <info>
+                    <p>首次开启清扫工作，请确保产品在基站上且充满电。点击主机<image href="../images/switch.png" width="15"
+                            id="image_u5x_215_xyb"/>键，主机开始清扫和建立地图。</p>
+                    <p>点击<image href="../images/switch.png" width="15" id="image_jf4_f15_xyb"
+                            />或基站<image href="../images/start.png" width="13" id="image_oc4_g15_xyb"
+                        />键</p>
+                    <p><image href="../images/P2-16.png" width="200" id="image_isr_5zt_xyb">
+                            <alt>启动清扫操作示意图</alt>
+                        </image></p>
+                </info>
+            </step>
+            <step>
+                <cmd>暂停</cmd>
+                <info>
+                    <p>主机工作中，短按主机<image href="../images/switch.png" width="25"
+                            id="image_dt3_l15_xyb"/>键或基站<image href="../images/start.png" width="20"
+                            id="image_wgr_l15_xyb"/>，即可暂停主机。</p>
+                    <p><image href="../images/P2-17.png" width="200" id="image_x14_yzt_xyb">
+                            <alt>暂停操作示意图</alt>
+                        </image></p>
+                </info>
+            </step>
+            <step>
+                <cmd>唤醒</cmd>
+                <info>
+                    <p>暂停一段时间后，主机面板所有指示灯熄灭。如需再次启动工作，请短按<image href="../images/switch.png" width="15"
+                            id="image_zl4_m15_xyb"/>。</p>
+                    <p><image href="../images/P2-18.png" width="200" id="image_s3q_lzt_xyb">
+                            <alt>暂停操作示意图</alt>
+                        </image></p>
+                </info>
+            </step>
+            <step>
+                <cmd>返回基站</cmd>
+                <info><p>长按<image href="../images/switch.png" width="15" id="image_lmx_m15_xyb"
+                        />3秒以上，主机返回基站充电。</p><image href="../images/P2-19.png" width="300"
+                        id="image_dzq_4zt_xyb">
+                        <alt>返回基站操作示意图</alt>
+                    </image></info>
+                <info>
+                    <note>主机结束工作后，建议不要关机，保持主机在充电状态，以便更好地进行下一次工作。</note>
+                </info>
+            </step>
+        </steps>
+    </taskbody>
+</task>

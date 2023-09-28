@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title>科沃斯扫地机器人说明书-A</title>
+    <topichead navtitle="科沃斯扫地机器人-A">
+        <topichead navtitle="产品组成">
+            <topicref href="SweepingRobot-A/1-1.dita"/>
+            <topicref href="SweepingRobot-A/1-2.dita"/>
+            <topicref href="SweepingRobot-A/1-3.dita"/>
+        </topichead>
+        <topichead navtitle="产品使用">
+            <topicref href="SweepingRobot-A/2-1.dita"/>
+            <topicref href="SweepingRobot-A/2-2.dita"/>
+            <topicref href="SweepingRobot-A/2-3.dita"/>
+            <topicref href="SweepingRobot-A/2-4.dita"/>
+            <topicref href="SweepingRobot-A/2-5.dita"/>
+            <topicref href="SweepingRobot-A/2-6.dita"/>
+            <topicref href="SweepingRobot-A/2-7.dita"/>
+        </topichead>
+        <topichead navtitle="部件保养">
+            <topicref href="SweepingRobot-A/3-1.dita"/>
+            <topicref href="SweepingRobot-A/3-2.dita"/>
+            <topicref href="SweepingRobot-A/3-3.dita"/>
+            <topicref href="SweepingRobot-A/3-3-1.dita"/>
+            <topicref href="SweepingRobot-A/3-4.dita"/>
+            <topicref href="SweepingRobot-A/3-5.dita"/>
+            <topicref href="SweepingRobot-A/3-6.dita"/>
+            <topicref href="SweepingRobot-A/3-7.dita"/>
+            <topicref href="SweepingRobot-A/3-8.dita"/>
+        </topichead>
+        <topichead navtitle="常见问题">
+            <topicref href="SweepingRobot-A/4.dita"/>
+        </topichead>
+        <topichead navtitle="产品参数">
+            <topicref href="SweepingRobot-A/5.dita"/>
+        </topichead>
+    </topichead>
+</map>

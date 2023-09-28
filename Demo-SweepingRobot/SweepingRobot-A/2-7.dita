@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="qrf_1b5_xyb">
+    <title>基站使用</title>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>开始/暂停主机清洁</cmd>
+                <info>
+                    <p><image href="../images/P2-22.png" width="200" id="image_bn2_hb5_xyb">
+                            <alt>开始/暂停主机清洁操作示意图</alt>
+                        </image></p>
+                </info>
+            </step>
+            <step>
+                <cmd>结束主机工作，将主机召回基站</cmd>
+                <info>
+                    <p><image href="../images/P2-23.png" width="400" id="image_k4g_mb5_xyb">
+                            <alt>将主机召回基站示意图</alt>
+                        </image></p>
+                </info>
+            </step>
+            <step>
+                <cmd>控制主机退出基站</cmd>
+                <info>
+                    <p><image href="../images/P2-24.png" width="200" id="image_tm3_4b5_xyb">
+                            <alt>控制主机退出基站操作示意图</alt>
+                        </image></p>
+                </info>
+            </step>
+            <step>
+                <cmd>启用／解除童锁</cmd>
+                <info>
+                    <p>童锁启用时，基站按键和主机<image href="../images/switch.png" width="15"
+                            id="image_u5x_215_xyb"/>键将会被锁定，以策安全。重复相同操作以解除童锁。</p>
+                    <p><image href="../images/P2-25.png" width="200" id="image_lwz_qb5_xyb">
+                            <alt>启用／解除童锁操作示意图</alt>
+                        </image></p>
+                </info>
+            </step>
+        </steps>
+    </taskbody>
+</task>

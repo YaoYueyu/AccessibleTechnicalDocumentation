@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="tb4_s3s_xyb">
+    <title>部件名称</title>
+    <conbody>
+        <p>主机正面</p>
+        <fig id="fig_fnx_vnt_xyb">
+            <image href="../images/P1-11.png" width="300" id="image_gnx_vnt_xyb">
+                <alt>启动/暂停键、摄像头工作指示灯、TrueDetect 3D结构光传感器、AVI摄像头、面盖</alt>
+            </image>
+        </fig>
+        <p>主机正面</p>
+        <fig id="fig_tgn_trt_xyb">
+            <image href="../images/P1-12.png" width="300" id="image_lhs_ynt_xyb">
+                <alt>激光扫描模块、缓冲防撞板</alt>
+            </image>
+        </fig>
+        <p>主机内部（面盖下方）</p>
+        <p><image href="../images/P1-13.png" width="300" id="image_wht_d4t_xyb">
+                <alt>重置键配网时：按下童萱键，语音提示主机配网。 恢复出厂设置：长按重置键5s，提示音后，开机音乐响起，主机恢复出厂设置，请谨慎使用。
+                    数据传输端口：仅限专业维修人员操作 电源开关：“|”代表开机，“○”代表关机 网络状态指示灯 尘盒 尘盒提手 净味滤芯 初级过滤碗 尘盒盖卡扣 集尘出口
+                </alt>
+            </image>
+        </p>
+        <p>主机背面</p>
+        <p>
+            <fig id="fig_jl2_jpt_xyb">
+                <image href="../images/P1-14.png" width="300" id="image_ox5_cpt_xyb">
+                    <alt>地毯传感器、滚刷、万向轮、边刷、驱动轮、下视感应器、滚刷释放键、拖布组件安装口、下视感应器</alt>
+                </image>
+            </fig>
+            <fig id="fig_kl2_jpt_xyb">
+                <image href="../images/P1-15.png" width="200" id="image_atx_3pt_xyb">
+                    <alt>充电极片</alt>
+                </image>
+            </fig>
+            <fig id="fig_bpt_kpt_xyb">
+                <p>拖布组件</p>
+                <image href="../images/P1-16.png" width="300" id="image_ot4_kpt_xyb">
+                    <alt>可水洗拖布</alt>
+                </image>
+                <image href="../images/P1-17.png" width="300" id="image_udq_mpt_xyb">
+                    <alt>拖布支架</alt>
+                </image>
+            </fig>
+        </p>
+        <p>基站（正面）</p>
+        <p><image href="../images/P1-18.png" width="300" id="image_by4_vpt_xyb">
+                <alt>面盖 污水箱 附件收纳盒 清水箱 清洁剂注入口 操作面板 过滤件 清洁槽 集尘仓弹出按钮（位于集尘仓下方） 操作面板按钮 清洁槽加水/抽水 主机启动/暂停
+                    主机召回/退出</alt>
+            </image></p>
+        <p>基站（背面）</p>
+        <p><image href="../images/P1-19.png" width="200" id="image_qc1_mrt_xyb">
+                <alt>银离子模块</alt>
+            </image></p>
+        <p>附件收纳盒</p>
+        <p><image href="../images/P1-20.png" width="200" id="image_agm_prt_xyb">
+                <alt>科沃斯专用清洁剂 基站清洁刷</alt>
+            </image></p>
+        <p>尘袋</p>
+        <p><image href="../images/P1-21.png" width="200" id="image_y5n_rrt_xyb">
+                <alt>尘袋提手</alt>
+            </image></p>
+        
+    </conbody>
+</concept>

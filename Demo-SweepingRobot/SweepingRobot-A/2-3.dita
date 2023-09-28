@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="csk_bst_xyb">
+    <title>APP下载</title>
+    <conbody>
+        <p><b>下载ECOVACS HOME App,体验地宝等更多功能：</b></p>
+        <p>方法一：打开 “扫一扫＂ ，扫描机身二维码，根据提示免费下载并安装 App。</p>
+        <p><image href="../images/P2-26.png" width="300" id="image_bb2_r5t_xyb">
+                <alt>主机面盖下方</alt>
+            </image></p>
+        <p>方法二：打开手机应用商店，搜索 “ECOVACS HOME",下载并安装。</p>
+        <p><image href="../images/P2-27.png" width="300" id="image_c4c_55t_xyb">
+                <alt>装饰图</alt>
+            </image></p>
+        <p><b>温馨提示：</b><ul id="ul_u53_w5t_xyb">
+                <li><p>安装完成后诮根据手机 App页面引导完成注册、 登录及配网。</p>开始前，请确保：</li>
+                <li>
+                    <p>您的手机已连接Wi-Fi网络。</p>
+                </li>
+                <li>
+                    <p>您的路由器已启用2.4GHz频段无线信号。</p>
+                </li>
+                <li>
+                    <p>主机上的Wi-Fi指示灯缓慢闪烁。</p>
+                </li>
+            </ul></p>
+        <p><b>Wi-Fi指示灯</b><image href="../images/wifi.png" width="25" id="image_xmv_gvt_xyb"
+                /><simpletable frame="all" relcolwidth="1* 1*" id="simpletable_ej1_bvt_xyb">
+                <strow>
+                    <stentry>缓慢闪烁</stentry>
+                    <stentry>
+                        <p>已断开Wi-Fi连接或</p>
+                        <p>正在等待Wi-Fi连接</p>
+                    </stentry>
+                </strow>
+                <strow>
+                    <stentry>快速闪烁</stentry>
+                    <stentry>正在连接Wi-Fi</stentry>
+                </strow>
+                <strow>
+                    <stentry>常壳</stentry>
+                    <stentry>已连接Wi-Fi</stentry>
+                </strow>
+            </simpletable></p>
+        <p>设置Wi-Fi前，请确保DEEBOT、手机和Wi-Fi网络符合以下要求。</p>
+        <p>
+            <ol id="ol_cpf_cxt_xyb">
+                <li>DEEBOT和手机要求<ul id="ul_icp_cxt_xyb">
+                        <li>
+                            <p>DEEBOT已充满电且已打开 DEEBOT电源开关。</p>
+                        </li>
+                        <li>Wi-Fi状态灯缓慢闪烁。</li>
+                        <li>
+                            <p>关闭手机的移动数据（完成设置后，可重新开启）。</p>
+                        </li>
+                    </ul></li>
+                <li>Wi-Fi网络要求<ul id="ul_epv_fxt_xyb">
+                        <li>
+                            <p>使用2.4GHz或2.4/5GHz混合网络。</p>
+                        </li>
+                        <li>
+                            <p>路由器支持802.11b/g/n和1Pv4协议。</p>
+                        </li>
+                        <li>
+                            <p>切勿使用 VPN（虚拟专用网络）或代理服务器。</p>
+                        </li>
+                        <li>
+                            <p>切勿使用隐藏的网络。</p>
+                        </li>
+                        <li>
+                            <p>使用 TKIP、 PS K、 AES/CCMP加密的WPA和WPA2。</p>
+                        </li>
+                        <li>
+                            <p>不支持WEP EAP（企业认证协议）。</p>
+                        </li>
+                        <li>
+                            <p>在北美地区使用Wi-Fi信道1-11,在北美以外地区使用Wi-Fi信道1-13（请咨询当地监管机构）。</p>
+                        </li>
+                        <li>
+                            <p>如果使用网络扩展器／中继器，则网络名称(SSID)和密码与主网络相同。</p>
+                        </li>
+                    </ul></li>
+            </ol>
+        </p>
+        <p>请您务必知悉科沃斯产品的远程启动、 语音交互、 2D/ 3D地图的展示和操控设置、
+            个性化清扫模式等智能功能（具体视不同产品而定）的实现需要用户通过下载和使用科沃斯不断更新的ECOVACS HOME App来实现。
+            您需要同意我们的《隐私政策》和《用户协议》，我们才能处理一些您的基础且必要的信息，才能实现您使用ECOVACS HOME App操控本产品的一些功能。
+            如果您不同意我们的《隐私政策》和《用户协议》，您将无法使用ECOVACS HOME
+            App操控本产品以实现本产品的前述某些智能功能，但您仍然可以使用本产品的手动操作的基础功能。</p>
+    </conbody>
+</concept>

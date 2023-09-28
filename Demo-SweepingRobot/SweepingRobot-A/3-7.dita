@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="vs4_1c5_xyb">
+    <title>保养过滤件</title>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>取出过滤件</cmd>
+                <info>
+                    <p>按住过滤件，往—侧转动，移出一侧卡扣，取下过滤件。</p>
+                </info>
+                <info>
+                    <p><image href="../images/P3-26.png" width="200" id="image_cgx_mt5_xyb">
+                            <alt>取出过滤示意图</alt>
+                        </image></p>
+                </info>
+            </step>
+            <step>
+                <cmd>清洗过滤件</cmd>
+                <info>
+                    <p>清水洗净过滤件。</p>
+                </info>
+                <info>
+                    <p><image href="../images/P3-27.png" width="100" id="image_cgx_mt5_xyc">
+                            <alt>清洗过滤件示意图</alt>
+                        </image></p>
+                </info>
+            </step>
+            <step>
+                <cmd>安装过滤件</cmd>
+                <info>
+                    <p>过滤件贴合底板，将一侧卡扣滑入卡槽，另一卡扣顺势卡入，直至听到“咔哒”一声，完成安装。</p>
+                </info>
+                <info>
+                    <p><image href="../images/P3-28.png" width="200" id="image_cgx_mt5_xyd">
+                            <alt>安装过滤件示意图</alt>
+                        </image></p>
+                </info>
+            </step>
+        </steps>
+    </taskbody>
+</task>

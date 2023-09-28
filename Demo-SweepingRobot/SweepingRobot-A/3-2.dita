@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="vs4_1c5_xyb">
+    <title>保养尘盒</title>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>打开尘盒盖，倾倒垃圾。</cmd>
+                <info>
+                    <p><image href="../images/P3-1.png" width="200" id="image_lgn_f25_xyb">
+                            <alt>打开尘盒盖，倾倒垃圾示意图</alt>
+                        </image></p>
+                </info>
+            </step>
+            <step>
+                <cmd>取出净味滤芯。</cmd>
+                <info>
+                    <p><image href="../images/P3-2.png" width="200" id="image_bq5_h25_xyb">
+                            <alt>取出净味滤芯操作示意图</alt>
+                        </image></p>
+                </info>
+            </step>
+            <step>
+                <cmd>清理初级滤网上的灰尘，注意里外两面都要清理。</cmd>
+                <info>
+                    <p><image href="../images/P3-3.png" width="200" id="image_ps4_k25_xyb">
+                            <alt>清理滤网灰尘示意图</alt>
+                        </image></p>
+                </info>
+                <info>
+                    <note>如需购买清理小工具，请访问<xref href="https://mall.ecovacs.cn/" format="html"
+                            scope="external">科沃斯官网商城</xref>。</note>
+                </info>
+            </step>
+            <step>
+                <cmd>可用水冲洗尘盒和净味滤芯并用力甩干水珠。</cmd>
+                <info>
+                    <p><image href="../images/P3-4.png" width="250" id="image_i2w_425_xyb">
+                            <alt>冲洗尘盒和净味滤芯示意图</alt>
+                        </image></p>
+                    <p><b>注意事项：</b></p>
+                    <p>
+                        <ol id="ol_n33_r25_xyb">
+                            <li>请参照图示方式，用清水进行冲洗。 </li>
+                            <li>请勿用刷子或手对净味滤芯进行刷洗。</li>
+                        </ol>
+                    </p>
+                </info>
+            </step>
+            <step>
+                <cmd>晾干尘盒和净味滤芯。</cmd>
+                <info>
+                    <p><image href="../images/P3-5.png" width="200" id="image_xhs_525_xyb">
+                            <alt>晾干尘盒和净味滤芯示意图</alt>
+                        </image></p>
+                    <p><b>温馨提示：</b>请务必将滤材完全諒干后再使用。</p>
+                    <p>建议您在ECOVACSHOME App商城或<xref href="https://mall.ecovacs.cn/" format="html"
+                            scope="external">科沃斯官网商城</xref>购买专用滤材组件，以便轮换使用。</p>
+                </info>
+            </step>
+        </steps>
+    </taskbody>
+</task>

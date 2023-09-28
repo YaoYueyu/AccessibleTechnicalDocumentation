@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="vs4_1c5_xyb">
+    <title>保养尘尘袋</title>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>丢弃尘袋</cmd>
+                <info>
+                    <p><image href="../images/P3-23.png" width="600" id="image_cgx_mt5_xyb">
+                            <alt>丢弃尘袋示意图</alt>
+                        </image></p>
+                    <p>取出时，尘袋提手会将尘袋密闭起来，有效防止灰尘漏出。</p>
+                </info>
+            </step>
+            <step>
+                <cmd>用干抹布擦拭集尘袋，安装新尘袋。</cmd>
+                <info>
+                    <p><image href="../images/P3-24.png" width="200" id="image_cgx_mt5_xyc">
+                            <alt>安装新尘袋操作示意图</alt>
+                        </image></p>
+                </info>
+            </step>
+            <step>
+                <cmd>关闭集尘袋</cmd>
+                <info>
+                    <p><image href="../images/P3-25.png" width="200" id="image_cgx_mt5_xyd">
+                            <alt>关闭集尘袋示意图</alt>
+                        </image></p>
+                </info>
+            </step>
+        </steps>
+    </taskbody>
+</task>

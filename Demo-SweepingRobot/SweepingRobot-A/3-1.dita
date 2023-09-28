@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="rgp_sc5_xyb">
+    <title>维护和保养频率</title>
+    <conbody>
+        <p>为使主机保持巅峰性能，建议参考下表频率对主机进行部件维护保养：</p>
+        <p>
+            <simpletable frame="all" relcolwidth="1* 1* 1*" id="simpletable_djj_vc5_xyb">
+                <sthead>
+                    <stentry>部件</stentry>
+                    <stentry>维护频率</stentry>
+                    <stentry>更换频率</stentry>
+                </sthead>
+                <strow>
+                    <stentry>可水洗拖布</stentry>
+                    <stentry>/</stentry>
+                    <stentry>每1-2个月</stentry>
+                </strow>
+                <strow>
+                    <stentry>尘袋</stentry>
+                    <stentry>/</stentry>
+                    <stentry>在App提示时进行更换</stentry>
+                </strow>
+                <strow>
+                    <stentry>边刷</stentry>
+                    <stentry>每2周</stentry>
+                    <stentry>每3-6个月</stentry>
+                </strow>
+                <strow>
+                    <stentry>滚刷</stentry>
+                    <stentry>每1周</stentry>
+                    <stentry>每6-12个月</stentry>
+                </strow>
+                <strow>
+                    <stentry>净味滤芯</stentry>
+                    <stentry>每1周</stentry>
+                    <stentry>每3-6个月</stentry>
+                </strow>
+                <strow>
+                    <stentry>True Detect
+                            3D结构光传感器<p>AIVI摄像头</p>TrueMapping光扫描模块<p>万向轮</p><p>下视感应器</p><p>缓冲防撞板</p><p>主机充电极片</p><p>基站充电极片</p></stentry>
+                    <stentry>每1周</stentry>
+                    <stentry>/</stentry>
+                </strow>
+                <strow>
+                    <stentry>清洁槽</stentry>
+                    <stentry>每2周</stentry>
+                    <stentry>/</stentry>
+                </strow>
+                <strow>
+                    <stentry>清水箱</stentry>
+                    <stentry>每3月</stentry>
+                    <stentry>/</stentry>
+                </strow>
+                <strow>
+                    <stentry>污水箱</stentry>
+                    <stentry>每次拖地后</stentry>
+                    <stentry>/</stentry>
+                </strow>
+                <strow>
+                    <stentry>过滤件</stentry>
+                    <stentry>每1月</stentry>
+                    <stentry>/</stentry>
+                </strow>
+                <strow>
+                    <stentry>集尘仓内部</stentry>
+                    <stentry>每1月</stentry>
+                    <stentry>/</stentry>
+                </strow>
+                <strow>
+                    <stentry>基站机身和底部</stentry>
+                    <stentry>每1月</stentry>
+                    <stentry>/</stentry>
+                </strow>
+            </simpletable>
+        </p>
+        <p><b>温馨提示：</b>如需购买各类配件，清访问ECOVACS HOME App商城或<xref href="https://mall.ecovacs.cn/"
+                format="html" scope="external">科沃斯官网商城</xref>。</p>
+    </conbody>
+</concept>
